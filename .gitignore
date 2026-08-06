@@ -1,0 +1,8 @@
+.venv/
+.venv-1/
+__pycache__/
+*.py[cod]
+.DS_Store
+.chromadb/
+chroma_db/
+*.sqlite3
