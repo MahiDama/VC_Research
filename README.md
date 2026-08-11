@@ -1,6 +1,6 @@
-# Dragoneer Copilot
+# VC Copilot
 
-Dragoneer Copilot is a Streamlit-based research assistant for venture capital and startup analysis. It uses a retrieval-augmented generation (RAG) workflow to search a local knowledge base of company notes and answer questions about founders, market trends, investment memos, and related context.
+VC Copilot is a Streamlit-based research assistant for venture capital and startup analysis. It uses a retrieval-augmented generation (RAG) workflow to search a local knowledge base of company notes and answer questions about founders, market trends, investment memos, and related context.
 
 ## Features
 
