@@ -8,3 +8,4 @@ chroma_db/
 *.sqlite3
 
 Ollama.dmg
+companies/
