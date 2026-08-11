@@ -2,6 +2,8 @@
 
 VC Copilot is a Streamlit-based research assistant for venture capital and startup analysis. It uses a retrieval-augmented generation (RAG) workflow to search a local knowledge base of company notes and answer questions about founders, market trends, investment memos, and related context.
 
+> **Disclaimer:** All data in this project is synthetic and artificially generated for demonstration purposes only.
+
 ## Features
 
 - Chat-based interface for VC research questions
@@ -9,6 +11,10 @@ VC Copilot is a Streamlit-based research assistant for venture capital and start
 - Context-aware prompts using local LLM responses from Ollama
 - Sidebar view of retrieved context chunks for transparency
 - Designed for quick exploration of startup and market knowledge
+
+## Architecture
+
+![System Architecture](System Architecture.png)
 
 ## Project Structure
 
