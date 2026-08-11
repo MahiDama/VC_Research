@@ -6,3 +6,5 @@ __pycache__/
 .chromadb/
 chroma_db/
 *.sqlite3
+
+Ollama.dmg
